@@ -1,0 +1,22 @@
+---
+title: software
+slug: software
+---
+
+I host my software projects on [GitHub](http://www.github.com/swo).
+
+# Microbial ecology software
+
+[**dbOTU3**](https://github.com/swo/dbotu3) is the third implementation of [Sarah Preheim](https://engineering.jhu.edu/ehe/faculty/sarah-preheim/)'s distribution-based (i.e., ecologically-informed) [OTU-calling algorithm](http://aem.asm.org/content/79/21/6593.long) that I developed jointly with [Claire Duvallet](https://claireduvallet.wordpress.com/about/). The distribution-based algorithm calls OTUs based on the similarity between sequences as well as their distribution across samples: sequences that are distributed similarly across samples are likely to be technically related (i.e., one is a sequencing error of the other) or biologically related (e.g., they are part of the same population of organisms). If two OTUs are sequence-similar and distribution-different, they go into different OTUs. A description of the algorithm has been [published](https://doi.org/10.1371/journal.pone.0176335).
+
+[**caravan**](https://github.com/swo/caravan) is a Python library for preliminary processing of 16S (or other next-generation sequencing) data. It aims to have a simple command-line interface, to implement the easier parts of 16S data processing in straightforward Pythonic algorithms, and to remind me how to do the harder parts of processing using [usearch](http://www.drive5.com/usearch/manual/). (If you think this is overkill and using the defaults in QIIME is fine, then you should read my [blog post](http://microbiome.mit.edu/2016/02/07/usearch/) about it!)
+
+The Treatment Effect eXplorer for Microbial Ecology eXperiments, or [**texmex**](https://github.com/swo/pytexmex), is a tool designed to help visual and interpret community dynamics measured in microbial ecology experiments that use sequencing count data. Given one inoculum split into two replicates, one control and one experimental, which OTUs are growing or shrinking in response to the treatment? Texmex is designed to help account for changes in the control unit’s community composition as well as dampen compositional effects that might occur in either unit. I originally implemented texmex in R ([CRAN](https://cran.r-project.org/web/packages/texmexseq/index.html), [GitHub](https://github.com/almlab/texmexseq)) and used it to [analyze the results of experiments](https://doi.org/10.1371/journal.pone.0154804) on oil-degrading ocean microbes.
+
+[**Mystic**](https://github.com/swo/lake_matlab) is a dynamic, coneptual, whole-ecosystem simulation of the microbial biogeochemistry of a dimictic lake. I used Mystic in collaboration with [Sarah Preheim](https://engineering.jhu.edu/ehe/faculty/sarah-preheim/) to [analyze microbial metabolisms](https://doi.org/ 10.1038/nmicrobiol.2016.130) in the epilimnion of Upper Mystic Lake near Boston, MA.
+
+# Lost causes
+
+I'm not a computer scientist, but I spend a lot of time on the computer and I love computer science. I spent some time on [a branch](https://github.com/swo/laterna) of the [slideshow](http://docs.racket-lang.org/slideshow) package in [Racket](https://racket-lang.org/). Most people use PowerPoint to make slideshows. Nerds use LaTeX via [Beamer](https://en.wikipedia.org/wiki/Beamer_(LaTeX)). Geeks use markdown via [Pandoc](https://pandoc.org/). And only the truly weird will use a Lisp language.
+
+I also got passionate about command-line option parsing and ended up with a [Ruby gem](https://github.com/swo/arginine). This has only pushed me further down the rabbit hole, and I'll soon have a manifesto for what command-line option parsing should look like.

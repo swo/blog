@@ -1,0 +1,55 @@
+---
+date: '2015-04-14'
+slug: using-git-with-word-documents
+title: Using git with Word documents
+---
+
+I like git, and I like to use it with most of my projects. I use LaTeX for documents, but sometimes I need to use Word. (Apparently _ISME J_ does not accept submissions in TeX. It only accepts Word, rtf, and [unbelievably!] plain txt.)
+
+
+
+
+
+Word uses a binary format, so `git diff` normally displays nothing useful. Martin Fenner posted an incredibly useful [blog post](http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/) that solved this whole problem for me.
+
+
+
+
+
+I'm on OSX. First, I got `pandoc`, a tool that turns Word files into simpler text formats that can be more easily piped into diff.
+
+
+
+
+
+Second, I needed to add some lines to the `.gitconfig` file in my home directory:
+
+
+
+
+
+    <code>[diff "pandoc"]
+      textconv=pandoc --to=markdown
+      prompt = false
+    [alias]
+      wdiff = diff --word-diff=color --unified=1
+    </code>
+
+
+
+
+
+Third, in the git repo, I needed to create a new file `.gitattributes` with contents
+
+
+
+
+
+    <code>*.docx diff=pandoc
+    </code>
+
+
+
+
+
+Et voila! `git diff` works just like I would hope.

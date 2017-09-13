@@ -1,0 +1,34 @@
+---
+title: publications
+slug: publications
+---
+
+**SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based OTU calling. *PLoS ONE* 12(5): e0176335 (2017). doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
+
+**SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota  transplant trials that account for stool donor heterogeneity. *Statistical Methods in Medical Research* (2017). (doi: [10.1177/0962280216688502](https://doi.org/10.1177/0962280216688502), bioRxiv [10.1101/065383](https://doi.org/10.1101/065383)
+
+**SW Olesen**, EJ Alm. Dysbiosis is not an answer (*opinion*). *Nature Microbiology* 1: 16228 (2016). (doi: 10.1038/nmicrobiol.2016.228)
+
+SP Preheim\*, **SW Olesen**\* (co-first), A Materna, C Varadharajan, M Blackburn, J Friedman, J Rodriguez, H Hemond, EJ Alm. Surveys, simulations, and single-cell assays relate function and phylogeny in a lake ecosystem. *Nature Microbiology* 1: 16130 (2016). (doi: 10.1038/nmicrobiol.2016.130)
+
+**Olesen SW**, Vora S, Techtmann SM, Fortney JL, Bastidas-Oyanedel JR, Rodríguez J, Hazen TC, Alm EJ. A novel analysis method for paired-sample microbial ecology experiments. *PLoS ONE* 11: e0154804 (2016). (doi: 10.1371/journal.pone.0154804)
+
+Smith MB, Rocha AM, Smillie CS, **Olesen SW**, Paradis C, Wu L, Campbell JH, Fortney JL, Mehlhorn TL, Lowe KA, Earles JE, Phillips J, Techtmann SM, Joyner DC, Elias DA, Bailey KL, Hurt RA, Jr, Preheim SP, Sanders MS, Yang J, Mueller MA, Brooks S, Watson DB, Zhang P, He Z, Dubinsky EA, Adams PD, Arkin AP, Fields MW, Zhou J, Alm EJ, Hazen TC. Natural bacterial communities serve as quantitative geochemical biosensors. *mBio* 6, e00326-15 (2015). (doi: 10.1128/mBio.00326-15)
+
+**SW Olesen**, SN Fejer, D Chakrabarti, and DJ Wales. A left-handed building block self-assembles into right-and left-handed helices. *RSC Advances*, 3, 12905-12908 (2013). (doi: 10.1039/C3RA41813H)
+
+D Bingemann, MR Allen, and **SW Olesen**. Single molecules reveal the dynamics of heterogeneities in a polymer at the glass transition. *Journal of Chemical Physics*, 134, 024513 (2011). (doi: 10.1063/1.3516516)
+
+ORCID 0000-0001-5400-4945
+
+## Things that are not peer-reviewed papers
+
+SW Olesen. Quantitative modeling for microbial ecology and clinical trials. PhD thesis, MIT (2016). ([DSpace](https://dspace.mit.edu/handle/1721.1/107277); [source code](https://github.com/swo/mit-thesis))
+
+SW Olesen. *[Processing 16S data](https://leanpub.com/primer16s/): an informal primer about 16S rRNA amplicon data*. Leanpub (2016).
+
+SW Olesen, EJ Alm. "Leveraging microbes when responding to an oil spill." [HSE NOW](http://www.spe.org/hsenow/article/leveraging-microbes-when-responding-to-a-spill) (Dec 2016).
+
+SW Olesen. "[What you think usearch does might not be what it does](http://microbiome.mit.edu/2016/02/07/usearch/)." MIT Center for Microbiome Informatics and Therapeutics Blog (Feb 2016).
+
+EJ Alm and SW Olesen. "Genomic data and machine learning for spill response strategy." Technical memo for BP Microbiology (2015).
