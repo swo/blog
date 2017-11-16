@@ -3,6 +3,8 @@ title: publications
 slug: publications
 ---
 
+N Wilck, MG Matus, SM Kearney, **SW Olesen**, K Forslund, H Bartolomaeus, S Haase, A Mahler, A Balogh, L Marko, O Vvedenskaya, FH Kleiner, D Tsvetkov, L Klug, PI Costea, S Sunagawa, L Maier, N Rakova, V Schatz, P Neubert, C Fratzer, A Krannich, M Gollasch, DA Grohme, BF Corte-Real, RG Gerlach, M Basic, A Typas, C Wu, JM Titze, J Jantsch, M Boschmann, R Dechend, M Kleinewietfeld, S Kempa, P Bork, RA Linker, EJ Alm, DN Muller. Salt-responsive gut commensal modules TH17 axis and disease. *Nature* (2017). doi: [10.1038/nature24628](https://doi.org/10.1038/nature24628)
+
 **SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based OTU calling. *PLoS ONE* 12(5): e0176335 (2017). doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
 
 **SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota  transplant trials that account for stool donor heterogeneity. *Statistical Methods in Medical Research* (2017). (doi: [10.1177/0962280216688502](https://doi.org/10.1177/0962280216688502), bioRxiv [10.1101/065383](https://doi.org/10.1101/065383)
