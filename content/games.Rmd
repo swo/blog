@@ -1,4 +1,11 @@
-# Gin rummy
+---
+title: games
+author: ''
+date: '2018-04-02'
+slug: games
+---
+
+## Gin rummy
 
 2 players.
 
@@ -36,7 +43,7 @@ game, keep a game score and a match score. At the end of a 100-point match, the
 match winner's game score goes up by the match score, a 100 point "game bonus",
 and 25 points per deal won ("box bonus").
 
-# Oh hell
+## Oh hell
 
 2-4 players; 4 is best.
 
@@ -62,7 +69,7 @@ points. If you go over, you lose one point per trick over the bid. If you go
 under, you lose 2 points per trick under the bid. *Hoyle*: Win the bid plus 10
 if you exactly make the bid; zero otherwise. The last hand has no trump.
 
-# Durak / Дурак
+## Durak / Дурак
 
 For 2-8 players. 4 is best.
 
