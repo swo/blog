@@ -1,7 +1,11 @@
 ---
 title: publications
+author: ''
+date: '2018-04-02'
 slug: publications
 ---
+
+**ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
 **SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: an observational study. *bioRxiv* (2018). doi: [10.1101/292243](https://doi.org/10.1101/292243)
 
@@ -22,8 +26,6 @@ Smith MB, Rocha AM, Smillie CS, **Olesen SW**, Paradis C, Wu L, Campbell JH, For
 **SW Olesen**, SN Fejer, D Chakrabarti, and DJ Wales. A left-handed building block self-assembles into right-and left-handed helices. *RSC Advances*, 3, 12905-12908 (2013). (doi: [10.1039/C3RA41813H](https://doi.org/10.1039/C3RA41813H))
 
 D Bingemann, MR Allen, and **SW Olesen**. Single molecules reveal the dynamics of heterogeneities in a polymer at the glass transition. *Journal of Chemical Physics*, 134, 024513 (2011). (doi: [10.1063/1.3516516](https://doi.org/10.1063/1.3516516))
-
-ORCID 0000-0001-5400-4945
 
 ## Things that are not peer-reviewed papers
 
