@@ -15,8 +15,6 @@ N Wilck, MG Matus, SM Kearney, **SW Olesen**, K Forslund, H Bartolomaeus, S Haas
 
 **SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota  transplant trials that account for stool donor heterogeneity. *Statistical Methods in Medical Research* (2017). (doi: [10.1177/0962280216688502](https://doi.org/10.1177/0962280216688502), preprint at *bioRxiv* [10.1101/065383](https://doi.org/10.1101/065383)
 
-**SW Olesen**, EJ Alm. Dysbiosis is not an answer (*opinion*). *Nature Microbiology* 1: 16228 (2016). (doi: [10.1038/nmicrobiol.2016.228](https://doi.org/10.1038/nmicrobiol.2016.228))
-
 SP Preheim\*, **SW Olesen**\* (co-first), A Materna, C Varadharajan, M Blackburn, J Friedman, J Rodriguez, H Hemond, EJ Alm. Surveys, simulations, and single-cell assays relate function and phylogeny in a lake ecosystem. *Nature Microbiology* 1: 16130 (2016). (doi: [10.1038/nmicrobiol.2016.130](https://doi.org/10.1038/nmicrobiol.2016.130))
 
 **Olesen SW**, Vora S, Techtmann SM, Fortney JL, Bastidas-Oyanedel JR, Rodríguez J, Hazen TC, Alm EJ. A novel analysis method for paired-sample microbial ecology experiments. *PLoS ONE* 11: e0154804 (2016). (doi: [10.1371/journal.pone.0154804](https://doi.org/10.1371/journal.pone.0154804))
@@ -28,6 +26,10 @@ Smith MB, Rocha AM, Smillie CS, **Olesen SW**, Paradis C, Wu L, Campbell JH, For
 D Bingemann, MR Allen, and **SW Olesen**. Single molecules reveal the dynamics of heterogeneities in a polymer at the glass transition. *Journal of Chemical Physics*, 134, 024513 (2011). (doi: [10.1063/1.3516516](https://doi.org/10.1063/1.3516516))
 
 ## Things that are not peer-reviewed papers
+
+**SW Olesen**, ML Leier, EJ Alm, SA Kahn. Searching for superstool: maximizing the therapeutic potential of FMT. *Nature Reviews Gastroenterology & Hepatology* (2018). (doi: [10.1038/s41575-018-0019-4](https://doi.org/10.1038/s41575-018-0019-4))
+
+**SW Olesen**, EJ Alm. Dysbiosis is not an answer. *Nature Microbiology* 1: 16228 (2016). (doi: [10.1038/nmicrobiol.2016.228](https://doi.org/10.1038/nmicrobiol.2016.228))
 
 SW Olesen. Quantitative modeling for microbial ecology and clinical trials. PhD thesis, MIT (2016). ([DSpace](https://dspace.mit.edu/handle/1721.1/107277); [source code](https://github.com/swo/mit-thesis))
 
