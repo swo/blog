@@ -7,7 +7,7 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
-**SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: an observational study. *bioRxiv* (2018). doi: [10.1101/292243](https://doi.org/10.1101/292243)
+**SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: observational study. *BMJ* (2018). doi: [10.1136/bmj.k3155](https://doi.org/10.1136/bmj.k3155)
 
 N Wilck, MG Matus, SM Kearney, **SW Olesen**, K Forslund, H Bartolomaeus, S Haase, A Mahler, A Balogh, L Marko, O Vvedenskaya, FH Kleiner, D Tsvetkov, L Klug, PI Costea, S Sunagawa, L Maier, N Rakova, V Schatz, P Neubert, C Fratzer, A Krannich, M Gollasch, DA Grohme, BF Corte-Real, RG Gerlach, M Basic, A Typas, C Wu, JM Titze, J Jantsch, M Boschmann, R Dechend, M Kleinewietfeld, S Kempa, P Bork, RA Linker, EJ Alm, DN Muller. Salt-responsive gut commensal modules TH17 axis and disease. *Nature* (2017). doi: [10.1038/nature24628](https://doi.org/10.1038/nature24628)
 

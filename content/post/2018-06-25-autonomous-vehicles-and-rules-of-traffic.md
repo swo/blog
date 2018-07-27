@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+Update: [This article](https://www.nytimes.com/2018/07/13/nyregion/lounge-in-them-dash-through-them-but-dont-call-them-parks.html) from *NYT* has some nice resonance with some of these themes.
+
 I live in Boston (well, Cambridge), and my primary mode of transport is by bicycle. Bicycle infrastructure is changing quickly in the city, and I travel a lot to other cities, so I like to think about how we get around. I'm biased toward cycling because that's what I do, but I drive in the city often enough to know that it's confusing and scary no matter what kind of vehicle you're in.
 
 In reading a [RAND Corporation](https://www.rand.org/) article (["What If Autonomous Vehicles Actually Make Us More Dependent on Cars?"](https://www.rand.org/blog/2018/06/what-if-autonomous-vehicles-actually-make-us-more-dependent.html)), I was led to some fascinating work.
