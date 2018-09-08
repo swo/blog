@@ -7,13 +7,17 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
+**SW Olesen**, YH Grad. Racial/ethnic disparities in antimicrobial drug use, United States, 2014-2015. *Emerging Infectious Diseases*. In press.
+
+**SW Olesen**, EA Torrone, JR Papp, RD Kirkcaldy, M Lipsitch, YH Grad. Azithromycin susceptibility in *Neisseria gonorrhoeae* and seasonal macrolide use. *Journal of Infectious Diseases*. In press.
+
 **SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: observational study. *BMJ* (2018). doi: [10.1136/bmj.k3155](https://doi.org/10.1136/bmj.k3155)
 
 N Wilck, MG Matus, SM Kearney, **SW Olesen**, K Forslund, H Bartolomaeus, S Haase, A Mahler, A Balogh, L Marko, O Vvedenskaya, FH Kleiner, D Tsvetkov, L Klug, PI Costea, S Sunagawa, L Maier, N Rakova, V Schatz, P Neubert, C Fratzer, A Krannich, M Gollasch, DA Grohme, BF Corte-Real, RG Gerlach, M Basic, A Typas, C Wu, JM Titze, J Jantsch, M Boschmann, R Dechend, M Kleinewietfeld, S Kempa, P Bork, RA Linker, EJ Alm, DN Muller. Salt-responsive gut commensal modules TH17 axis and disease. *Nature* (2017). doi: [10.1038/nature24628](https://doi.org/10.1038/nature24628)
 
 **SW Olesen**, C Duvallet, EJ Alm. dbOTU3: A new implementation of distribution-based OTU calling. *PLoS ONE* 12(5): e0176335 (2017). doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
 
-**SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota  transplant trials that account for stool donor heterogeneity. *Statistical Methods in Medical Research* (2017). doi: [10.1177/0962280216688502](https://doi.org/10.1177/0962280216688502); preprint at *bioRxiv* [10.1101/065383](https://doi.org/10.1101/065383)
+**SW Olesen**\*, T Gurry\* (co-first), EJ Alm. Designing fecal microbiota  transplant trials that account for stool donor heterogeneity. *Statistical Methods in Medical Research* (2017). doi: [10.1177/0962280216688502](https://doi.org/10.1177/0962280216688502); [final pdf](http://journals.sagepub.com/doi/pdf/10.1177/0962280216688502)
 
 SP Preheim\*, **SW Olesen**\* (co-first), A Materna, C Varadharajan, M Blackburn, J Friedman, J Rodriguez, H Hemond, EJ Alm. Surveys, simulations, and single-cell assays relate function and phylogeny in a lake ecosystem. *Nature Microbiology* 1: 16130 (2016). doi: [10.1038/nmicrobiol.2016.130](https://doi.org/10.1038/nmicrobiol.2016.130)
 
