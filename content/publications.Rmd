@@ -7,6 +7,8 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
+C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (in press).
+
 **SW Olesen**, YH Grad. Racial/ethnic disparities in antimicrobial drug use, United States, 2014-2015. *Emerging Infectious Diseases* 24(11): 2126-2128 (2018). doi:[10.3201/eid2411.180762](https://doi.org/10.3201/eid2411.180762)
 
 K Arora-Williams, **SW Olesen**, BP Scandella, K Delwiche, SJ Spencer, EM Myers, S Abraham, A Sooklal, SP Preheim. Dynamics of microbial populations mediating biogeochemical cycling in a freshwater lake. *Microbiome* (2018) doi: [10.1186/s40168-018-0556-7](https://doi.org/10.1186/s40168-018-0556-7)
