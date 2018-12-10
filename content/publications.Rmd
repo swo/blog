@@ -7,7 +7,9 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
-C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (in press).
+**SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* (in press). [bioRxiv](https://www.biorxiv.org/content/early/2018/11/19/473769)
+
+C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (in press). [bioRxiv](https://www.biorxiv.org/content/early/2018/09/28/288704)
 
 **SW Olesen**, YH Grad. Racial/ethnic disparities in antimicrobial drug use, United States, 2014-2015. *Emerging Infectious Diseases* 24(11): 2126-2128 (2018). doi: [10.3201/eid2411.180762](https://doi.org/10.3201/eid2411.180762)
 
