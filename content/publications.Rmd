@@ -7,9 +7,9 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
-**SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* (in press). [bioRxiv](https://www.biorxiv.org/content/early/2018/11/19/473769)
+**SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* 7:e39435 (2018). doi: [10.7554/eLife.39435](https://doi.org/10.7554/eLife.39435)
 
-C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (in press). [bioRxiv](https://www.biorxiv.org/content/early/2018/09/28/288704)
+C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (2018). doi: [10.1073/pnas.1810840115](https://doi.org/10.1073/pnas.1810840115); [bioRxiv](https://www.biorxiv.org/content/early/2018/09/28/288704)
 
 **SW Olesen**, YH Grad. Racial/ethnic disparities in antimicrobial drug use, United States, 2014-2015. *Emerging Infectious Diseases* 24(11): 2126-2128 (2018). doi: [10.3201/eid2411.180762](https://doi.org/10.3201/eid2411.180762)
 
