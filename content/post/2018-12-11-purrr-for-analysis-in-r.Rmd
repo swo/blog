@@ -121,7 +121,7 @@ Now it's nice and easy to compare the models in the context of a data frame:
 ```{r}
 iris %>%
   nest(-Species) %>%
-    mutate(
+  mutate(
     model = map(data, ~ lm(Sepal.Width ~ Sepal.Length, data = .)),
     slope = map_dbl(model, ~ coef(.)['Sepal.Length']),
     slope_confint = map(model, ~ confint(.)['Sepal.Length', ]),
