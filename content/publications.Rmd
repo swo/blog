@@ -7,6 +7,8 @@ slug: publications
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
+**SW Olesen**, M Lipsitch, YH Grad. Outpatient antibiotic stewardship interventions: geographic scale and associations between antibiotic use and resistance. *bioRxiv* (2019). doi: [10.1101/536714](https://doi.org/10.1101/536714)
+
 **SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* 7:e39435 (2018). doi: [10.7554/eLife.39435](https://doi.org/10.7554/eLife.39435)
 
 C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (2018). doi: [10.1073/pnas.1810840115](https://doi.org/10.1073/pnas.1810840115); [bioRxiv](https://www.biorxiv.org/content/early/2018/09/28/288704)
@@ -17,7 +19,7 @@ K Arora-Williams, **SW Olesen**, BP Scandella, K Delwiche, SJ Spencer, EM Myers,
 
 **SW Olesen**, EA Torrone, JR Papp, RD Kirkcaldy, M Lipsitch, YH Grad. Azithromycin susceptibility in *Neisseria gonorrhoeae* and seasonal macrolide use. *Journal of Infectious Diseases* (2018). doi: [10.1093/infdis/jiy551](https://doi.org/10.1093/infdis/jiy551)
 
-**SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: observational study. *BMJ* (2018). doi: [10.1136/bmj.k3155](https://doi.org/10.1136/bmj.k3155)
+**SW Olesen**, ML Barnett, DR MacFadden, M Lipsitch, YH Grad. Trends in outpatient antibiotic prescribing practice among US older adults, 2011-2015: observational study. *BMJ* (2018). doi: [10.1136/bmj.k3155](https://doi.org/10.1136/bmj.k3155); [supplement](/img/bmj_supplement.pdf)
 
 N Wilck, MG Matus, SM Kearney, **SW Olesen**, K Forslund, H Bartolomaeus, S Haase, A Mahler, A Balogh, L Marko, O Vvedenskaya, FH Kleiner, D Tsvetkov, L Klug, PI Costea, S Sunagawa, L Maier, N Rakova, V Schatz, P Neubert, C Fratzer, A Krannich, M Gollasch, DA Grohme, BF Corte-Real, RG Gerlach, M Basic, A Typas, C Wu, JM Titze, J Jantsch, M Boschmann, R Dechend, M Kleinewietfeld, S Kempa, P Bork, RA Linker, EJ Alm, DN Muller. Salt-responsive gut commensal modules TH17 axis and disease. *Nature* (2017). doi: [10.1038/nature24628](https://doi.org/10.1038/nature24628)
 
