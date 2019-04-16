@@ -14,7 +14,7 @@ As an example, say I wanted to do some analysis on the "iris" data set, which "g
 ```{r}
 iris %>%
   head(3) %>%
-  kable(caption = 'First records in the iris data')
+  knitr::kable(caption = 'First records in the iris data')
 ```
 
 Let's consider the relationship between sepal length and width in the three species.
@@ -84,14 +84,14 @@ This is where `purrr` comes in. First, there is a function `nest`. Like `split`,
 iris %<>% as_tibble
 
 # "minus" means put all columns except Species into the nested dataframes
-nest(iris, -Species)
+tidyr::nest(iris, -Species)
 ```
 
 Next, there is a family of functions `map`. Just like map functions in other languages and the `Map` and `lapply` functions in base R, it takes a function and a vector of inputs, or multiple inputs, and returns the outputs.
 
 ```{r}
 iris %>%
-  nest(-Species) %>%
+  tidyr::nest(-Species) %>%
   mutate(
     # this works
     model1 = lapply(data, function(x) lm(Sepal.Width ~ Sepal.Length, data = x)),
@@ -106,7 +106,7 @@ The really nice bit about `map` is that is has close cousins like `map_dbl` whic
 
 ```{r}
 iris %>%
-  nest(-Species) %>%
+  tidyr::nest(-Species) %>%
   mutate(
     model = map(data, ~ lm(Sepal.Width ~ Sepal.Length, data = .)),
     slope1 = map(model, ~ coef(.)['Sepal.Length']),
@@ -120,7 +120,7 @@ Now it's nice and easy to compare the models in the context of a data frame:
 
 ```{r}
 iris %>%
-  nest(-Species) %>%
+  tidyr::nest(-Species) %>%
   mutate(
     model = map(data, ~ lm(Sepal.Width ~ Sepal.Length, data = .)),
     slope = map_dbl(model, ~ coef(.)['Sepal.Length']),

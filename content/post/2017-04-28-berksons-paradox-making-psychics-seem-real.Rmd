@@ -81,6 +81,10 @@ that *A* and *B* have non-overlapping tastes, when if fact they are completely
 independent.
 
 ```{r berksons-movies, echo=FALSE}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+
 crossing(x=1:10, y=1:10) %>%
   mutate(good = x+y >= 14) %>%
   (function (df) {

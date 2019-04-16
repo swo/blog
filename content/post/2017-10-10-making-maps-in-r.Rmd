@@ -12,6 +12,8 @@ It turns out that [ggplot](http://ggplot2.tidyverse.org/) has some commands that
 ```{r load}
 library(dplyr)
 library(ggplot2)
+library(knitr)
+
 world = map_data('world')
 world %>% head(3) %>% kable
 ```

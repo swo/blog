@@ -9,6 +9,9 @@ Imagine I told you that the acceptance rate for women at a prestigious universit
 This is an example of Simpson's paradox: the trend within each group (e.g., women having higher acceptance rates within each department) is the opposite of the trend overall (e.g., women having lower acceptance rates overall). There's a nice visual explanation for this phenomenon. Imagine you're interested in the relationship between the *y* and *x* variables. Within the two colored groups, increasing *x* goes with increasing *y*, but across all data points, the trend is reversed.
 
 ```{r, echo=FALSE}
+library(dplyr)
+library(ggplot2)
+
 data_frame(x=1:10, y=c(6:10, 1:5), group=c(rep('A', 5), rep('B', 5))) %>%
   ggplot(aes(x, y, color=group)) +
   geom_smooth(aes(color=NULL), method='lm', se=F, color='gray', fullrange=T) +
