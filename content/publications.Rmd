@@ -9,6 +9,10 @@ slug: publications
 
 **SW Olesen**, M Lipsitch, YH Grad. Outpatient antibiotic stewardship interventions: geographic scale and associations between antibiotic use and resistance. *bioRxiv* (2019). doi: [10.1101/536714](https://doi.org/10.1101/536714)
 
+**SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
+
+JI Miller, S Techtmann, J Fortney, N Mahmoudi, D Joyner, J Liu, **SW Olesen**, E Alm, A Fernandez, P Gardinali, N GaraJayeva, FS Askerov, TC Hazen. Oil hydrocarbon degradation by Caspian Sea microbial communities. *Front Microbiol* (2019). doi: [https://doi.org/10.3389/fmicb.2019.00995](https://doi.org/10.3389/fmicb.2019.00995)
+
 **SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* 7:e39435 (2018). doi: [10.7554/eLife.39435](https://doi.org/10.7554/eLife.39435)
 
 C Tedijanto, **SW Olesen**, YH Grad, M Lipsitch. Estimating the proportion of bystander selection for antibiotic resistance among potentially pathogenic bacterial flora. *PNAS* (2018). doi: [10.1073/pnas.1810840115](https://doi.org/10.1073/pnas.1810840115); [bioRxiv](https://www.biorxiv.org/content/early/2018/09/28/288704)
