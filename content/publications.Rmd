@@ -1,7 +1,7 @@
 ---
-title: publications
+title: Publications
 author: ''
-date: '2018-04-02'
+date: '2019-05-05'
 slug: publications
 ---
 
@@ -9,9 +9,11 @@ slug: publications
 
 **SW Olesen**, M Lipsitch, YH Grad. Outpatient antibiotic stewardship interventions: geographic scale and associations between antibiotic use and resistance. *bioRxiv* (2019). doi: [10.1101/536714](https://doi.org/10.1101/536714)
 
-**SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
+**SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* 380(19): 1872--1873 (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
 
 JI Miller, S Techtmann, J Fortney, N Mahmoudi, D Joyner, J Liu, **SW Olesen**, E Alm, A Fernandez, P Gardinali, N GaraJayeva, FS Askerov, TC Hazen. Oil hydrocarbon degradation by Caspian Sea microbial communities. *Front Microbiol* (2019). doi: [https://doi.org/10.3389/fmicb.2019.00995](https://doi.org/10.3389/fmicb.2019.00995)
+
+**SW Olesen**, M Lipsitch, YH Grad. Response to comment on 'The distribution of antibiotic use and its association with antibiotic resistance'. *eLife* 8:e47124 (2019). doi: [10.7554/eLife.47124](https://doi.org/10.7554/eLife.47124)
 
 **SW Olesen**, ML Barnett, DR MacFadden, JS Brownstein, S Hernandez-Diaz, M Lipsitch, YH Grad. The distribution of antibiotic use and its association with antibiotic resistance. *eLife* 7:e39435 (2018). doi: [10.7554/eLife.39435](https://doi.org/10.7554/eLife.39435)
 
