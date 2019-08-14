@@ -11,6 +11,8 @@ slug: publications
 
 **SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* 380(19): 1872--1873 (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
 
+**SW Olesen**, YH Grad. Deciphering the impact of bystander selection for antibiotic resistance in *Neisseria gonorrhoeae*. *J Infect Dis* (2019). doi: [10.1093/infdis/jiz156](https://doi.org/10.1093/infdis/jiz156)
+
 JI Miller, S Techtmann, J Fortney, N Mahmoudi, D Joyner, J Liu, **SW Olesen**, E Alm, A Fernandez, P Gardinali, N GaraJayeva, FS Askerov, TC Hazen. Oil hydrocarbon degradation by Caspian Sea microbial communities. *Front Microbiol* (2019). doi: [https://doi.org/10.3389/fmicb.2019.00995](https://doi.org/10.3389/fmicb.2019.00995)
 
 **SW Olesen**, M Lipsitch, YH Grad. Response to comment on 'The distribution of antibiotic use and its association with antibiotic resistance'. *eLife* 8:e47124 (2019). doi: [10.7554/eLife.47124](https://doi.org/10.7554/eLife.47124)
