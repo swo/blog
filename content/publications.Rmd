@@ -11,8 +11,6 @@ slug: publications
 
 **SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* 380(19): 1872--1873 (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
 
-**SW Olesen**, YH Grad. Deciphering the impact of bystander selection for antibiotic resistance in *Neisseria gonorrhoeae*. *J Infect Dis* (2019). doi: [10.1093/infdis/jiz156](https://doi.org/10.1093/infdis/jiz156)
-
 JI Miller, S Techtmann, J Fortney, N Mahmoudi, D Joyner, J Liu, **SW Olesen**, E Alm, A Fernandez, P Gardinali, N GaraJayeva, FS Askerov, TC Hazen. Oil hydrocarbon degradation by Caspian Sea microbial communities. *Front Microbiol* (2019). doi: [https://doi.org/10.3389/fmicb.2019.00995](https://doi.org/10.3389/fmicb.2019.00995)
 
 **SW Olesen**, M Lipsitch, YH Grad. Response to comment on 'The distribution of antibiotic use and its association with antibiotic resistance'. *eLife* 8:e47124 (2019). doi: [10.7554/eLife.47124](https://doi.org/10.7554/eLife.47124)
@@ -45,7 +43,10 @@ Smith MB, Rocha AM, Smillie CS, **Olesen SW**, Paradis C, Wu L, Campbell JH, For
 
 D Bingemann, MR Allen, and **SW Olesen**. Single molecules reveal the dynamics of heterogeneities in a polymer at the glass transition. *Journal of Chemical Physics*, 134, 024513 (2011). doi: [10.1063/1.3516516](https://doi.org/10.1063/1.3516516)
 
+
 ## Things that are not peer-reviewed papers
+
+**SW Olesen**, YH Grad. Deciphering the impact of bystander selection for antibiotic resistance in *Neisseria gonorrhoeae*. *J Infect Dis* (2019). doi: [10.1093/infdis/jiz156](https://doi.org/10.1093/infdis/jiz156)
 
 DR MacFadden, M Lipsitch, **SW Olesen**, Y Grad. Multidrug-resistant *Neisseria gonorrhoeae*: implications for future treatment strategies. *The Lancet Infectious Diseases* (2018). doi: [10.1016/S1473-3099(18)30274-3](https://doi.org/10.1016/S1473-3099(18)30274-3)
 
