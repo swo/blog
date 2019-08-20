@@ -1,13 +1,15 @@
 ---
 title: Publications
 author: ''
-date: '2019-05-05'
+date: '2019-08-19'
 slug: publications
 ---
 
 **ORCID** [0000-0001-5400-4945](https://orcid.org/0000-0001-5400-4945)
 
 **SW Olesen**, M Lipsitch, YH Grad. Outpatient antibiotic stewardship interventions: geographic scale and associations between antibiotic use and resistance. *bioRxiv* (2019). doi: [10.1101/536714](https://doi.org/10.1101/536714)
+
+E Goldstein, **SW Olesen**, Z Karaca, CA Steiner, C Viboud, M Lipsitch. Levels of outpatient prescribing for four major antibiotic classes and rates of septicemia hospitalization in adults in different US states -- a statistical analysis. *BMC Public Health* 19: 1139 (2019). doi: [10.1186/s12889-019-7431-8](https://doi.org/10.1186/s12889-019-7431-8)
 
 **SW Olesen**, D MacFadden, YH Grad. Cumulative probability of receiving an antibiotic prescription over time. *NEJM* 380(19): 1872--1873 (2019). doi: [10.1056/NEJMc1816699](https://doi.org/10.1056/NEJMc1816699)
 
